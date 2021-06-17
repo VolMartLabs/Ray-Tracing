@@ -7,5 +7,5 @@ Use ``%PathToExecutable%\Ray Tracing.exe > %ImageName%.ppm``. Personally I use P
 ![](../main/demos/Balls_high_res.png)
 ![](../main/demos/CornellBox.png)
 ![](../main/demos/CornellSmoke.png)
-![](../main/demos/Light Sphere.png)
+![](../main/demos/LightSphere.png)
 ![](../main/demos/Earth.png)
