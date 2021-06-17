@@ -2,6 +2,7 @@
 Implementation of ray tracing algorithm using C++ programming language. It renders images in .ppm format.
 In current version of the algorithm you have to use command console to get the picture.
 Use ``%PathToExecutable%\Ray Tracing.exe > %ImageName%.ppm``. Personally I use Photoshop CS5 to view the pictures, but you can use whatever you want.
+Documentation: https://volmartlabs.github.io/Ray-Tracing/documentation/index.html
 ## _Output rendered images_
 ![](../main/demos/Final.png)
 ![](../main/demos/Balls_high_res.png)
