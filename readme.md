@@ -3,6 +3,9 @@ Implementation of ray tracing algorithm using C++ programming language. It rende
 In current version of the algorithm you have to use command console to get the picture.
 Use ``%PathToExecutable%\Ray Tracing.exe > %ImageName%.ppm``. Personally I use Photoshop CS5 to view the pictures, but you can use whatever you want.
 ## _Output rendered images_
-![](image.png)
-![](image2.png)
-![](image3.png)
+![](../main/demos/Final.png)
+![](../main/demos/Balls_high_res.png)
+![](../main/demos/CornellBox.png)
+![](../main/demos/CornellSmoke.png)
+![](../main/demos/Light Sphere.png)
+![](../main/demos/Earth.png)
